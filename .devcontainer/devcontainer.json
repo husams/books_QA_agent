@@ -11,9 +11,7 @@
 		"ghcr.io/devcontainers/features/python:1": {
      		"version": "3.12"
     	},
-    	"ghcr.io/devcontainers/features/sqlite:1": {
-      	"version": "3.38"
-    	}
+    	"ghcr.io/devcontainers/features/sqlite:1": {}
 	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
