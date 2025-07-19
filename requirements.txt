@@ -2,7 +2,7 @@ numpy
 pandas
 streamlit
 llama-index
-pyautogen
+ag2
 flaml[automl]
 chromadb
 prompt_toolkit
